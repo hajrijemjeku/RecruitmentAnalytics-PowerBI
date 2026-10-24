@@ -1,2 +1,5 @@
-# RecruitmentAnalytics-PowerBI
-Power BI dashboard analyzing recruitment data: hiring funnel, sourcing channels, interviews, offers and salaries. Built with Power Query, DAX and a star-schema data model.
+# Recruitment Analytics: Power BI
+
+Power BI report analyzing the hiring pipeline: applications, interviews, offers and salaries.
+
+SQL part of this project: https://github.com/hajrijemjeku/RecruitmentAnalytics
